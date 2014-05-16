@@ -1,0 +1,24 @@
+{
+  "name": "hexo-deployer-rsyncc",
+  "description": "More configurable rsync deployer for Hexo.",
+  "version": "0.0.1",
+  "author": "Jico Baligod <jico@baligod.com>",
+  "main": "index",
+  "license": "MIT",
+  "engines": {
+    "hexo": ">=2.5.0",
+    "node": ">=0.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jico/hexo-deployer-rsyncc"
+  },
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "colors": "~0.6.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.4.0",
+    "gulp-jshint": "^1.6.1"
+  }
+}
